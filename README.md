@@ -19,7 +19,7 @@ To get started with AssetChain Startkit , follow the steps below:
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/AssetChain-Academy/assetchain_starterkits
+git clone https://github.com/xendfinance/assetchain-starterkits
 cd assetchain_starterkits
 cd frontend 
 npm install
