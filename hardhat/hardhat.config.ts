@@ -10,15 +10,12 @@ import "@nomicfoundation/hardhat-verify";
 import "hardhat-deploy";
 import "hardhat-deploy-ethers";
 
-// If not set, it uses the hardhat account 0 private key.
 const deployerPrivateKey =
   process.env.DEPLOYER_PRIVATE_KEY ?? "0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80";
-// If not set, it uses ours Etherscan default API key.
-const etherscanApiKey = process.env.ETHERSCAN_API_KEY || "DNXJA8RX2Q3VZ4URQIWP7Z68CJXQZSC6AW";
 
 const config: HardhatUserConfig = {
   solidity: {
-    version: "0.8.17",
+    version: "0.8.20",
     settings: {
       optimizer: {
         enabled: true,
@@ -44,17 +41,26 @@ const config: HardhatUserConfig = {
   },
   // configuration for harhdat-verify plugin
   etherscan: {
-    apiKey: `${etherscanApiKey}`,
-  },
-  // configuration for etherscan-verify from hardhat-deploy plugin
-  verify: {
-    etherscan: {
-      apiKey: `${etherscanApiKey}`,
+    apiKey: {
+      assetchain_test: "abc",
     },
+    customChains: [
+      {
+        network: "assetchain_test",
+        chainId: 42421,
+        urls: {
+          apiURL: "http://scout.xendrwachain.com/api",
+          browserURL: "http://scout.xendrwachain.com/",
+        },
+      },
+    ],
   },
+
   sourcify: {
     enabled: false,
   },
 };
 
 export default config;
+
+
