@@ -58,7 +58,5 @@ We welcome contributions to AssetChain Startkit
 
 Please see [CONTRIBUTING.MD](https://github.com/AssetChain-Academy/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.
 
-  ## 📝 License
-This project is under license from MIT. For more details, see the LICENSE file.
 
 With :heart:, <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> and <a href="https://github.com/theiceeman" target="_blank">KelvinIOT</a>
