@@ -1,6 +1,6 @@
-# 🔗 AssetChain Startkit
+# 🔗 AssetChain Starterkit
 
-AssetChain Startkit is an open-source, up-to-date toolkit for building decentralized applications (dapps) on the AssetChain Blockchain[`Native blockchain for Xend Finance's real-world asset OAE (Onchain Asset Environment)`]. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+AssetChain Starterkit is an open-source, up-to-date toolkit for building decentralized applications (dapps) on the AssetChain Blockchain[`Native blockchain for Xend Finance's real-world asset OAE (Onchain Asset Environment)`]. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
 ⚙️ Built using NextJS, Hardhat, Viem, and Typescript.
 
@@ -52,9 +52,9 @@ Visit your app on: `http://localhost:3000`.
 - Edit your smart contract test in: `/hardhat/test`. To run test use `yarn hardhat:test`
 
 
-## Contributing to AssetChain Startkit
+## Contributing to AssetChain Starterkit
 
-We welcome contributions to AssetChain Startkit
+We welcome contributions to AssetChain Starterkit
 
 Please see [CONTRIBUTING.MD](https://github.com/AssetChain-Academy/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.
 
