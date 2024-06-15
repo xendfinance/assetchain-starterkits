@@ -18,8 +18,8 @@ export const assetchain_testnet = defineChain({
   },
   rpcUrls: {
     default: {
-      http: ["https://rpctestnet.xendrwachain.com"],
-      webSocket: ["wss://rpctestnet.xendrwachain.com"],
+      http: ["https://enugu-rpc.assetchain.org/"],
+      webSocket: ["wss://enugu-rpc.assetchain.org"],
     },
   },
   blockExplorers: {
