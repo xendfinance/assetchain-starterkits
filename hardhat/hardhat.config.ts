@@ -35,7 +35,7 @@ const config: HardhatUserConfig = {
     // View the networks that are pre-configured.
     // If the network you are looking for is not here you can add new network settings
     assetchain_testnet: {
-      url: "https://rpctestnet.xendrwachain.com/",
+      url: "https://enugu-rpc.assetchain.org/",
       accounts: [deployerPrivateKey],
     },
   },
