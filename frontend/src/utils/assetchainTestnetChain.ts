@@ -23,7 +23,7 @@ export const assetchain_testnet = defineChain({
     },
   },
   blockExplorers: {
-    default: { name: "Xendrwachain", url: "https://testnet.xendrwachain.com" },
+    default: { name: "Asset Chain Scan", url: "https://testnet.assetchain.org/" },
   },
   contracts: {
     multicall3: {
