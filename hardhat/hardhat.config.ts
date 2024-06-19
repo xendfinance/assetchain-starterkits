@@ -49,8 +49,8 @@ const config: HardhatUserConfig = {
         network: "assetchain_test",
         chainId: 42421,
         urls: {
-          apiURL: "http://scout.xendrwachain.com/api",
-          browserURL: "http://scout.xendrwachain.com/",
+          apiURL: "https://scan-testnet.assetchain.org/api",
+          browserURL: "https://scan-testnet.assetchain.org/",
         },
       },
     ],
