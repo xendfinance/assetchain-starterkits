@@ -120,7 +120,7 @@ const Debug = () => {
                     </button>
                     {transactionHash && (
                       <Link
-                        href={`https://testnet.xendrwachain.com/transactions/${transactionHash}`}
+                        href={`https://testnet.assetchain.org/transactions/${transactionHash}`}
                         target="_blank"
                       >
                         view transaction hash here
