@@ -56,7 +56,7 @@ Visit your app on: `http://localhost:3000`.
 
 We welcome contributions to AssetChain Starterkit
 
-Please see [CONTRIBUTING.MD](https://github.com/AssetChain-Academy/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.
+Please see [CONTRIBUTING.MD](https://github.com/xendfinance/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.
 
 
 With :heart:, <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> and <a href="https://github.com/theiceeman" target="_blank">KelvinIOT</a>
