@@ -1,8 +1,7 @@
-# 🔗 AssetChain Starterkit
+# Asset Chain Starterkit
 
-AssetChain Starterkit is an open-source, up-to-date toolkit for building decentralized applications (dapps) on the AssetChain Blockchain[`Native blockchain for Xend Finance's real-world asset OAE (Onchain Asset Environment)`]. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
-
-⚙️ Built using NextJS, Hardhat, Viem, and Typescript.
+This is an open-source toolkit for building decentralized applications on Asset Chain. It's designed for developers to create, deploy smart contracts and build user interfaces that interact with those contracts with ease.<br/>
+Built using NextJS, Hardhat, Viem, and Typescript.
 
 ## Requirements
 
@@ -14,7 +13,7 @@ Before you begin, you need to install the following tools:
 
 ## Quickstart
 
-To get started with AssetChain Startkit , follow the steps below:
+To get started with Asset Chain Starterkit , follow the steps below:
 
 1. Clone this repo & install dependencies
 
@@ -52,11 +51,9 @@ Visit your app on: `http://localhost:3000`.
 - Edit your smart contract test in: `/hardhat/test`. To run test use `yarn hardhat:test`
 
 
-## Contributing to AssetChain Starterkit
+## Contributing to Asset Chain Starterkit
 
-We welcome contributions to AssetChain Starterkit
+We welcome contributions to Asset Chain Starterkit<br/>
+Please see [CONTRIBUTING.MD](https://github.com/xendfinance/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.<br/>
 
-Please see [CONTRIBUTING.MD](https://github.com/xendfinance/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.
-
-
-With :heart:, <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> and <a href="https://github.com/theiceeman" target="_blank">KelvinIOT</a>
+With :heart: <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> & <a href="https://github.com/theiceeman" target="_blank">KelvinIOT</a>
