@@ -53,7 +53,7 @@ Visit your app on: `http://localhost:3000`.
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/xendfinance/nodesale/CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our guide when submitting code or comments.
+See [CONTRIBUTING.md](https://github.com/xendfinance/assetchain-starterkits/CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our guide when submitting code or comments.
 
 ## License
 
@@ -63,5 +63,5 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 ## Contact
 
-For questions or suggestions, just say Hi on [Telegram](https://t.me/xendfinancedevs).<br/>
+For questions or suggestions, just say Hi on [Telegram](https://t.me/assetchainbuilders).<br/>
 We're always glad to help.
