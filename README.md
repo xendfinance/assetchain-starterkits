@@ -1,4 +1,4 @@
-# Asset Chain Starterkit
+# Asset Chain Web StarterKit
 
 This is an open-source toolkit for building decentralized applications on Asset Chain. It's designed for developers to create, deploy smart contracts and build user interfaces that interact with those contracts with ease.<br/>
 Built using NextJS, Hardhat, Viem, and Typescript.
