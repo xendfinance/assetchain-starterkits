@@ -51,9 +51,17 @@ Visit your app on: `http://localhost:3000`.
 - Edit your smart contract test in: `/hardhat/test`. To run test use `yarn hardhat:test`
 
 
-## Contributing to Asset Chain Starterkit
+## Contributing
 
-We welcome contributions to Asset Chain Starterkit<br/>
-Please see [CONTRIBUTING.MD](https://github.com/xendfinance/assetchain_starterkits/blob/main/CONTRIBUTING.md) for more information and guidelines for contributing.<br/>
+See [CONTRIBUTING.md](https://github.com/xendfinance/nodesale/CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our guide when submitting code or comments.
 
-With :heart: <a href="https://github.com/KodeSage" target="_blank">James Harrison</a> & <a href="https://github.com/theiceeman" target="_blank">KelvinIOT</a>
+## License
+
+[![License: GPL v3.0](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or suggestions, just say Hi on [Telegram](https://t.me/xendfinancedevs).<br/>
+We're always glad to help.
