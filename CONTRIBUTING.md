@@ -1,24 +1,14 @@
-# Welcome to AssetChain Startkit Contributing Guide
+# Welcome to our Contributing Guide for Asset Chain
 
-Thank you for investing your time in contributing to AssetChain Startkit! 
+Thank you for your interest in contributing to Asset Chain. 
 
 This guide aims to provide an overview of the contribution workflow to help us make the contribution process effective for everyone involved.
 
 ## About the Project
 
-AssetChain Startkit is a minimal and forkable repo providing builders with a starter kit to build decentralized applications on AssetChain.
-
-Read the [README](README.md) to get an overview of the project.
-
-### Vision
-
-The goal of Scaffold-AA is to provide the primary building blocks for a decentralized application with Account Abstraction.
-
-The repo can be forked to include integrations and more features, but we want to keep the main branch simple and minimal.
+For every project, Read the [README](README.md) to get an overview of the project.
 
 ### Project Status
-
-The project is under active development.
 
 You can view the open Issues, follow the development process and contribute to the project.
 
@@ -44,7 +34,7 @@ Issues should be used to report problems, request a new feature, or discuss pote
 
 #### Solve an issue
 
-Scan through our [existing issues]( https://github.com/AssetChain-Academy/assetchain_starterkits/issues) to find one that interests you.
+Scan through the existing issues for each project, to find one that interests you.
 
 If a contributor is working on the issue, they will be assigned to the individual. If you find an issue to work on, you are welcome to assign it to yourself and open a PR with a fix for it.
 
@@ -61,8 +51,6 @@ Some tips to follow when you are creating an issue:
 ### Pull Requests
 
 #### Pull Request Process
-
-We follow the ["fork-and-pull" Git workflow](https://github.com/susam/gitpr)
 
 1. Fork the repo
 2. Clone the project
